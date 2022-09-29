@@ -73,6 +73,14 @@
     },
 
     {
+      "folder_name": "sdg",
+      "board": "g",
+      "keywords": ["sdg"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
+
+    {
       "folder_name": "technology",
       "board": "g",
       "keywords": ["desktop thread", "bst", "battlestation thread"],
