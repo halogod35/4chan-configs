@@ -1,0 +1,41 @@
+{"searches":[
+    {
+      "folder_name": "sdg",
+      "board": "h",
+      "keywords": ["hdg"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
+
+    {
+      "folder_name": "sdg",
+      "board": "g",
+      "keywords": ["sdg"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
+    
+    {
+      "folder_name": "sdg",
+      "board": "d",
+      "keywords": ["ddg"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
+
+    {
+      "folder_name": "sdg",
+      "board": "b",
+      "keywords": ["AI Generated Porn"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
+
+    {
+      "folder_name": "sdg",
+      "board": "aco",
+      "keywords": ["asdg"],
+      "check_duplicate": true,
+      "throttle": 5
+    }
+]}
