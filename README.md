@@ -102,6 +102,22 @@ wsg-replace
       "check_duplicate": true,
       "throttle": 5
     },
+    
+    {
+      "folder_name": "sdg",
+      "board": "d",
+      "keywords": ["ddg"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
+
+    {
+      "folder_name": "sdg",
+      "board": "aco",
+      "keywords": ["asdg"],
+      "check_duplicate": true,
+      "throttle": 5
+    },
 
     {
       "folder_name": "technology",
