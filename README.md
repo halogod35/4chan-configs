@@ -9,8 +9,6 @@ b-replace
 d-replace
 g-replace
 gif-replace
-hc-replace
-hr-replace
 pol-replace
 t-replace
 tg-replace
