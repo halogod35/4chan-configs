@@ -9,7 +9,10 @@ b-replace
 d-replace
 g-replace
 gif-replace
+hc-replace
+hr-replace
 pol-replace
+r-replace
 t-replace
 tg-replace
 vg-replace
